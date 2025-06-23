@@ -1,2 +1,2 @@
 # website
-https://github.com/sathish-sharma/website
+https://sathish-sharma.github.io/website/
